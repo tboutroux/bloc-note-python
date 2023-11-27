@@ -28,4 +28,4 @@ source venv/bin/active
 # Vous pourrez ainsi réaliser la commande de l'étape 3
 ```
 
-#### Projet réalisé par Théo BOUTROUX - Touts droits réservés
+#### Projet réalisé par Théo BOUTROUX - Tous droits réservés
